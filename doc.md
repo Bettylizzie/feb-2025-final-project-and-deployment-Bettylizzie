@@ -8,7 +8,7 @@ Clean, modern UI design
 Persistent user preferences (theme selection)
 Live Demo
 View on GitHub Pages
-Replace with your actual deployment URL
+https://bettylizzie.github.io/feb-2025-final-project-and-deployment-Bettylizzie/
 
 File Structure
 my-website/
@@ -58,7 +58,7 @@ Scroll event handlers
 
 ## Setup Instructions
 Clone the repository:
-git clone [https://github.com/yourus/repository-name.git](https://github.com/Bettylizzie/feb-2025-final-project-and-deployment-Bettylizzie/new/main)
+git clone https://github.com/Bettylizzie/feb-2025-final-project-and-deployment-Bettylizzie/new/main
 ## Open in browser:
 Simply open index.html in any modern browser
 No server required for basic functionality
